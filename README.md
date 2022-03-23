@@ -1,9 +1,26 @@
-### Hi there 👋
+
 ## Hi friend, thanks for stopping by :sunflower: 👋
 
 [![Lisa Le's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lisale841&hide=contribs,stars&theme=blueberry)](https://github.com/lisale841/github-readme-stats)
 
+* 💻 Currently working on my first full-stack application called [It's a Mood](https://its-a-mood.herokuapp.com/).
+* 📚 Stack - JavaScript, React, CSS3, HTML5, Node.js, Express, PostgreSQL
+* 🛠️ Tools -  Bootstrap, NPM, Babel, Webpack, Git, Github, Slack, VS Code
+* :book: Open to learning new things.
 
+## About Me 👨‍💻
+
+My name is Lisa and I'm a business major, cake decorator, medical billing specialist turned web developer.
+
+
+## Hobbies 
+
+* 🥘 Looking for new food spots
+* :musical_note: Music
+* :family: Family
+
+## Let's Connect! 📫
+* [LinkedIn](https://www.linkedin.com/in/lisale841/)
 <!--
 **lisale841/lisale841** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
