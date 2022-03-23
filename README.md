@@ -20,7 +20,7 @@ My name is Lisa and I'm a business major, cake decorator, medical billing specia
 * :family: Family
 
 ## Let's Connect! 📫
-* [LinkedIn](https://www.linkedin.com/in/lisale841/)
+* [LinkedIn](https://www.linkedin.com/in/lisale0719/)
 <!--
 **lisale841/lisale841** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
