@@ -6,6 +6,7 @@
 * 💻 Currently working on my first full-stack application called [It's a Mood](https://its-a-mood.herokuapp.com/).
 * 📚 Stack - JavaScript, React, CSS3, HTML5, Node.js, Express, PostgreSQL
 * 🛠️ Tools -  Bootstrap, NPM, Babel, Webpack, Git, Github, Slack, VS Code
+* 👯 I’m always looking to collaborate on new and fun applications
 * :book: Open to learning new things.
 
 ## About Me 👨‍💻
