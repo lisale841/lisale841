@@ -3,7 +3,7 @@
 
 [![Lisa Le's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lisale841&hide=contribs,stars&theme=blueberry)](https://github.com/lisale841/github-readme-stats)
 
-* 💻 Currently working on my first full-stack application called [It's a Mood](https://its-a-mood.herokuapp.com/) and my weather application called [Weather-Meow :cat2:]
+* 💻 Currently working on my first full-stack application called [It's a Mood](https://its-a-mood.herokuapp.com/) and my weather application called [Weather-Meow :cat2:](https://weather-meow.vercel.app/)
 * 📚 Stack - JavaScript, React, CSS3, HTML5, Node.js, Express, PostgreSQL
 * 🛠️ Tools -  Bootstrap, NPM, Babel, Webpack, Git, Github, Slack, VS Code
 * 👯 I’m always looking to collaborate on new and fun applications
