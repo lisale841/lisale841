@@ -11,7 +11,7 @@
 
 ## About Me 👨‍💻
 
-My name is Lisa and I'm a business major, cake decorator, medical billing specialist turned web developer.
+My name is Lisa and I'm a business major, cake decorator, medical billing specialist turned software engineer with a focus in front end development.  Currently working as a contract developer. 
 
 
 ## Hobbies 
