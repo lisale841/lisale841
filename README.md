@@ -6,7 +6,7 @@
 * 💻 Currently working on my first full-stack application called [It's a Mood](https://its-a-mood.herokuapp.com/) and my weather application called [Weather-Meow :cat2:](https://weather-meow.vercel.app/)
 * 📚 Stack - JavaScript, React, CSS3, HTML5, Node.js, Express, PostgreSQL
 * 🛠️ Tools -  Bootstrap, NPM, Babel, Webpack, Git, Github, Slack, VS Code
-* 👯 I’m always looking to collaborate on new and fun applications.  Currently working on a collab project called [Battleslimes](https://battleslimes.com) where I created a page displaying cute Battleslimes with link to their opensea page.  From there you can purchase your own slime nft! To view the showcase [click here!](https://showcase.battleslimes.com) 
+* 👯 I’m always looking to collaborate on new and fun applications.  Currently working on a collab project called [Battleslimes](https://www.battleslimes.com) where I created a page displaying cute Battleslimes with link to their opensea page.  From there you can purchase your own slime nft! To view the showcase [click here!](https://showcase.battleslimes.com) 
 * :book: Open to learning new things. 
 
 ## About Me 👨‍💻
