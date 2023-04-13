@@ -11,7 +11,7 @@
 *  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
  
 
-## About Me 👨‍💻
+## About Me 	:woman_technologist:
 
 My name is Lisa and I'm a business major, cake decorator, medical billing specialist turned software engineer with a focus in front end development.  Currently working as a contract developer. 
 
