@@ -2,6 +2,7 @@
 ### Hi friend!
 ### My name is Lisa and thanks for stopping by :sunflower: 👋
 
+
 [![Lisa Le's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lisale841&hide=contribs,stars&theme=blueberry)](https://github.com/lisale841/github-readme-stats)
 
 * 💻 Working on my first full-stack application called [It's a Mood](https://its-a-mood.herokuapp.com/) and my weather application called [Weather-Meow :cat2:](https://weather-meow.vercel.app/)
