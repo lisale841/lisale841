@@ -5,7 +5,7 @@
 
 [![Lisa Le's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lisale841&hide=contribs,stars&theme=blueberry)](https://github.com/lisale841/github-readme-stats)
 
-* 💻 Working on my first full-stack application called [It's a Mood](https://its-a-mood.herokuapp.com/) and my weather application called [Weather-Meow :cat2:](https://weather-meow.vercel.app/)
+* 💻 Working on my first full-stack application called [It's a Mood](https://its-a-mood.herokuapp.com/).
 * 👯 I’m always looking to collaborate on new and fun applications.  Recently collaborated on a project called [Battleslimes](https://www.battleslimes.com) where I created a page displaying cute Battleslimes with a link to their opensea page.  From there you can purchase your own slime nft! To view the showcase I created please [click here!](https://showcase.battleslimes.com) 
 * :book: Open to learning new things.
 * Currently learning:
