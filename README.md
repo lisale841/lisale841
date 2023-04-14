@@ -1,20 +1,20 @@
 
-### Hi friend!
-### My name is Lisa and thanks for stopping by :sunflower: 👋
+### Hi!!!! :wave:
+### My name is Lisa and thanks for stopping by :sunflower: 
 
 
-[![Lisa Le's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lisale841&hide=contribs,stars&theme=blueberry)](https://github.com/lisale841/github-readme-stats)
+## About Me 	:woman_technologist:
+
+My name is Lisa and I'm a business major, cake decorator, medical billing specialist turned software engineer with a focus in front end development.  Currently a contract software engineer.
 
 * 💻 Working on my first full-stack application called [It's a Mood](https://its-a-mood.herokuapp.com/).
 * 👯 I’m always looking to collaborate on new and fun applications.  Recently collaborated on a project called [Battleslimes](https://www.battleslimes.com) where I created a page displaying cute Battleslimes with a link to their opensea page.  From there you can purchase your own slime nft! To view the showcase I created please [click here!](https://showcase.battleslimes.com) 
 * :book: Open to learning new things.
 * Currently learning:
 *  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
- 
 
-## About Me 	:woman_technologist:
-
-My name is Lisa and I'm a business major, cake decorator, medical billing specialist turned software engineer with a focus in front end development.  Currently working as a contract developer. 
+## Github Stats 
+[![Lisa Le's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lisale841&hide=contribs,stars&theme=blueberry)](https://github.com/lisale841/github-readme-stats)
 
 ## Stack and Tech
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
