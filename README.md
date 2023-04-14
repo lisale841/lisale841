@@ -1,6 +1,5 @@
 
-### Hi!!!! :wave:
-### My name is Lisa and thanks for stopping by :sunflower: 
+### Hi!!!! Thanks for stopping by :wave: 
 
 
 ## About Me 	:woman_technologist:
