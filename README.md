@@ -10,7 +10,7 @@ My name is Lisa and I'm a business major, cake decorator, medical billing specia
 * 👯 I’m always looking to collaborate on new and fun applications.  Recently collaborated on a project called [Battleslimes](https://www.battleslimes.com) where I created a page displaying cute Battleslimes with a link to their opensea page.  From there you can purchase your own slime nft! To view the showcase I created please [click here!](https://showcase.battleslimes.com) 
 * :book: Open to learning new things.
 * Currently learning:
-*  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+ ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Github Stats 
 [![Lisa Le's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lisale841&hide=contribs,stars&theme=blueberry)](https://github.com/lisale841/github-readme-stats)
