@@ -1,5 +1,5 @@
 
-### Hi!!!! Thanks for stopping by :wave: 
+### Hi! Thanks for stopping by :wave: 
 
 
 ## About Me 	:woman_technologist:
