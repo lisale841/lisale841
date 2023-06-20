@@ -6,7 +6,7 @@
 
 My name is Lisa and I am a software engineer with a focus in front end development.  Currently a contract software engineer.
 
-* 💻 Working on my first full-stack application called It's a Mood.
+* 💻 Working on my full-stack application called It's a Mood.
 <!-- * (https://its-a-mood.herokuapp.com/). -->
 * 👯 I’m always looking to collaborate on new and fun applications.  Recently collaborated on a project called [Battleslimes](https://www.battleslimes.com) where I created a page displaying cute Battleslimes with a link to their opensea page.  From there you can purchase your own slime nft! To view the showcase I created please [click here!](https://showcase.battleslimes.com) 
 * :book: Open to learning new things.
