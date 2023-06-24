@@ -1,5 +1,5 @@
 
-### Hi! Thanks for stopping by :wave: 
+![White and Gray Minimalist Personal LinkedIn Banner (3)](https://github.com/lisale841/lisale841/assets/93673754/c3b55cd5-5e6e-4089-9734-e94185a3b257)
 
 
 ## About Me 	:woman_technologist:
