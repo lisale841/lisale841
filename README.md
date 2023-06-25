@@ -1,5 +1,6 @@
 
-![White and Gray Minimalist Personal LinkedIn Banner (3)](https://github.com/lisale841/lisale841/assets/93673754/c3b55cd5-5e6e-4089-9734-e94185a3b257)
+
+![White and Gray Minimalist Personal LinkedIn Banner (6)](https://github.com/lisale841/lisale841/assets/93673754/8267afa3-3d20-436b-b31b-1cff8d710b12)
 
 
 ## About Me 	:woman_technologist:
