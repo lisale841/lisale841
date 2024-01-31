@@ -3,7 +3,7 @@
 ![White and Gray Minimalist Personal LinkedIn Banner (6)](https://github.com/lisale841/lisale841/assets/93673754/8267afa3-3d20-436b-b31b-1cff8d710b12)
 
 
-## About Me 	:woman_technologist:
+## About Me 
 
 My name is Lisa and I am a software engineer with a focus in front end development.  Currently a contract software engineer.
 
